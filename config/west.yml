@@ -12,7 +12,7 @@ manifest:
       # nice-view-gem
     - name: m165437
       url-base: https://github.com/M165437
-      - name: janpfischer
+    - name: janpfischer
       url-base: https://github.com/janpfischer
   projects:
     - name: zmk
