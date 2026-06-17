@@ -72,7 +72,7 @@
 
         paste {
             bindings = <&kp LG(V)>;
-            key-positions = <23 24>;
+            key-positions = <23 22>;
         };
 
         pastenoformat {
