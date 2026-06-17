@@ -12,8 +12,8 @@ manifest:
       # nice-view-gem
     - name: m165437
       url-base: https://github.com/M165437
-    - name: janpfischer
-      url-base: https://github.com/janpfischer
+    - name: carrefinho
+      url-base: https://github.com/carrefinho 
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -25,8 +25,8 @@ manifest:
     - name: nice-view-gem
       remote: m165437
       revision: v0.3.0
-    - name: zmk-dongle-screen
-      remote: janpfischer
-      revision: main
+    - name: prospector-zmk-module  
+      remote: carrefinho
+      revision: feat/new-status-screens
   self:
     path: config
