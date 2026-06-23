@@ -92,7 +92,12 @@
 
         tab {
             bindings = <&kp TAB>;
-            key-positions = <10 11>;
+            key-positions = <29 28 27>;
+        };
+
+        dash {
+            bindings = <&kp MINUS>;
+            key-positions = <29 28>;
         };
     };
 
